@@ -1,1 +1,1 @@
-This is modified my_class.py in branch V4
+This is a different modification of my_class.py in branch V5
